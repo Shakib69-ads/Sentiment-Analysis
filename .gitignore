@@ -1,0 +1,12 @@
+.venv-sentiment/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+data/
+chart_review_preview.png
+.env
+.env.*
+.streamlit/secrets.toml
+sentiment-analysis-github.zip
